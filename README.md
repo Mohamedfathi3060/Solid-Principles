@@ -1,6 +1,6 @@
 
 
-# [Solid-Principles](https://en.wikipedia.org/wiki/SOLID)
+# ![me]()[Solid-Principles](https://en.wikipedia.org/wiki/SOLID)
 
 ## Object-oriented design 
 is a way to design classes together and determine interactions  between them..
