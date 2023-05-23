@@ -27,6 +27,7 @@ open/close principle which is mean we make class able to adapt with different ty
  <br /> so when we need to add new feature it can work with new feature without any conflicts 
  <br />Briefly => each class is open for 'extension' close for 'modification' 
  <br />problem => when adding new feature (eg. paypal payment)  need to change each class deal with payment cycle 
+ ![OPEN/CLOSE EXAMPLE](https://player.slideplayer.com/15/4573787/data/images/img8.png)
  ### L
  Liskov's Substitution Principle 
  suppose we have rectangle class has its own width , height , get Area function "that's well"
