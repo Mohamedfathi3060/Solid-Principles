@@ -4,18 +4,18 @@
 
 ## Object-oriented design 
 is a way to design classes together and determine interactions  between them..
-Solid-Principles is one of important rules in OO design 
+Solid-Principles is one of the important rules in OO design 
 ## who wrote it ?
 by Robert Martin Author of Clean Code Book
 ## what is Solid-Principles 
-A a set of guidelines that helps us to avoid having a bad design .. however why there is a bad and good design? 🤨
+A set of guidelines that helps us to avoid having a bad design .. however why there is a bad and good design? 🤨
 <br />all designs which make its purpose will work.. BUT what about flexibility or maintenance in our System..?
-like we built app for paying..we decide we only can accept pay with credits cards ..
+like we built an app for paying..we decide we only can accept payment with credit cards ..
 ## Short-Story
-thats good .. our system works well .. after few months we got feedbacks of using our app and our customers 
-complaint that they cannot pay with paypal account or Mobile payments 🥺 ...what Shall we do..
-go to our system and navigate to class which care about paying and add this..! is it easy ?
-we may affect another class correctness repeat integration tesing again !! ..so we need to extend our system to add new features not modifying our System
+that's good .. our system works well .. after a few months we got feedback about using our app and our customer's
+complaint that they cannot pay with PayPal account or Mobile payments 🥺 ...what Shall we do..
+go to our system and navigate to the class which cares about paying and add this..! is it easy ?
+we may affect another class's correctness repeat integration tesing again !! ..so we need to extend our system to add new features not modifying our System
 # lets Start
  S O L I D each char represent a Solution to a specific problem
 ### S
